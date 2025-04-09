@@ -1,0 +1,1 @@
+Pelo fato da gente não somente saber criar `branches`, mas entender como elas realmente funcionam por baixo dos panos, isso possibilita agora a gente criar ambientes de `Homologação` que em inglês a turma lá se refere como `Staging` e que a Vercel escolheu dar o nome de `Preview`, que não deixa de ser uma `pré-visualização` do que está para acontecer.

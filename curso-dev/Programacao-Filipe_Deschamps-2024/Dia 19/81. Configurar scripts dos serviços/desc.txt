@@ -1,0 +1,1 @@
+Essa aqui vai ser mais uma aula com **lapidações**, mas uma **super importante**, porque a gente vai deixar o projeto alinhado para quando a gente for trabalhar na issue de `Continuous Integration` 💪 Fora isso, a aula é repleta com dicas extras 😍

@@ -1,0 +1,9 @@
+Nesta Pista Lenta iremos configurar nosso próprio **Servidor Autoritativo** (Servidor de DNS), para que ele aponte lá para o Servidor da Vercel, que é onde ta o nosso site 💪
+
+## Chorinho sobre Servidor de DNS
+
+**[Clique aqui para acessar a aula](https://curso.dev/web/configurar-servidor-dns-chorinho)** 🤝
+
+## Registro.br possui um "Modo Avançado"
+
+Eu não sabia, mas o Rodrigo Kulb colocou [nesta resposta](https://curso.dev/alunos/rodrigoKulb/2c901041-9734-4705-822d-829d2550a316) que o Registro.br possui um **Modo Avançado** onde ele fornece para você um Servidor Autoritativo completo 😍

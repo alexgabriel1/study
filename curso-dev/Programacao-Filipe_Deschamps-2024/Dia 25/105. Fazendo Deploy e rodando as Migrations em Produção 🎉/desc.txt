@@ -1,0 +1,1 @@
+Nesta `Pista Lenta` iremos concluir a tarefa `Executar Migrations pelo endpoint /migrations`, fechar a `Issue` de `Migrations` e avançar a `Milestone` 😍 Tudo isso, pois iremos fazer o **deploy em produção** do que implementamos nos últimos Dias 💪

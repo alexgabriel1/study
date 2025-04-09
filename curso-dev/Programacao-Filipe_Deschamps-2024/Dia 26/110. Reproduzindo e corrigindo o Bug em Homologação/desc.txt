@@ -1,0 +1,1 @@
+Agora chegou a hora de eu _**marretar**_ o meu ambiente de `Homologação` para ativar o bug de conexões, depois consertar e ver se eu vou conseguir "homologar" ou não a branch `fix-migrations-endpoint` 💪

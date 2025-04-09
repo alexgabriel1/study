@@ -1,0 +1,10 @@
+Como fazer para evitar de ter Variáveis de Ambiente duplicadas no arquivo `compose.yaml`, no arquivo `databse.js` e fazer tudo puxar do `.env`? É isso o que iremos ver nesta aula, fora se deparar com um **mistério**... vamos ver se você sabe a resposta 🤝
+
+
+## Mistério: Por quê o Banco de Dados rodou?
+
+Por que no minuto `02:22` da aula, ao trocar a Variável de Ambiente de `POSTGRES_DATABASE` para `POSTGRES_DB` no arquivo `.env`, a conexão com o Banco de Dados continuou funcionando, se o `database.js` estava pedindo ainda pela antiga Variável de Ambiente `POSTGRES_DATABASE`? Você vai precisar investigar para encontrar esta resposta 💪
+
+## Comentário em destaque
+
+Caso queira saber qual a resposta, sugiro ler [esse comentário](https://curso.dev/alunos/HenriqueNas/b907f191-6823-495b-84b3-bb9494c525c4) que está bastante completo 🤝

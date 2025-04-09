@@ -1,0 +1,3 @@
+Nesta aula iremos passar um pente fino no assunto `Prettier` que é um dos **formatadores de código** mais famosos do mundo 💪
+
+A princípio, o assunto `Prettier` é simples, e de fato é, mas esta simplicidade abre espaço para brechas numa estratégia mais madura sobre a **garantia** da estilização do código. Então como aqui no `curso.dev` minha missão é não deixar buracos no seu conhecimento, chegou a hora de estudar este assunto de forma **séria**, incluindo, preparar o projeto para que ele também seja um projeto **sério** 🤝

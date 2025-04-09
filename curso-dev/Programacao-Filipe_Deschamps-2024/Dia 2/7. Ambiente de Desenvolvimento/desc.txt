@@ -1,0 +1,11 @@
+Quanto mais **simples** for um ambiente de desenvolvimento, maior **flexibilidade** você terá e, numa visão grosseira, não deveria passar de um lugar para **escrever** códigos e outro lugar para **executar** eles ou outros serviços.
+
+## 🚨 Configurações
+
+Então na lista abaixo você irá encontrar **aulas não listadas** sobre como configurar um ambiente de desenvolvimento com as dependências mínimas para conseguir escrever e executar o projeto do TabNews:
+
+1. **[Codespaces (recomendado)](https://curso.dev/web/ambiente-de-desenvolvimento-codespaces)**
+2. _Gitpod (em construção)_
+3. _Windows Localhost (em construção)_
+4. _macOS Localhost (em construção)_
+5. _Linux Localhost (em construção)_

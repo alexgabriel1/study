@@ -1,0 +1,1 @@
+A nossa próxima tarefa é criar uma conta na [DigitalOcean](https://www.digitalocean.com/) e levantar uma instância lá de Postgres 💪 Será que vai ser fácil ou vai ter mais um conhecimento super importante *"barrando"* o nosso caminho? **Spoiler:** vai ter e vai ser **MUITO** massa 😉

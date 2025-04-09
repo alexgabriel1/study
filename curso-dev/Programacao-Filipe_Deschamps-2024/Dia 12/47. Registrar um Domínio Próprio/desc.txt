@@ -1,0 +1,9 @@
+Quando você faz um registro de um domínio `.com.br` (ou o registro de qualquer domínio na verdade), você está **modificando a internet** e é isto que iremos fazer nesta aula 💪
+
+## 🛑 Atenção
+
+Caso ao registrar o domínio você receba uma mensagem de erro informando algo como **_"outro serviço está como responsavel pela administração"_**, peço que leia as instruções colocadas [neste comentário do `niege`](https://curso.dev/alunos/niege/2cfc6796-1d2a-4895-8b3f-ca829f41563b) e que dá os passos sobre como desbloquear o atual Registrador 🤝
+
+<!--
+https://customer-3xyw0d7g2rerpzgr.cloudflarestream.com/ae362f2b997d744dfc4c82f9b1d6e485/watch
+-->

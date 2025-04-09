@@ -1,0 +1,11 @@
+Algo aconteceu no meu ambiente de desenvolvimento que foi diferente do que aconteceu no ambiente de alguns outros alunos quando executaram o script `npm run lint:check` ou `npm run lint:fix`. Nesta aula vamos investigar o que aconteceu e o que fazer para deixar tudo sincronizado 💪
+
+## 🛑 Breaking Change
+
+O `prettier` a partir da versão `3.0.0` mudou o seu comportamento e por padrão está utilizando o conteúdo dentro `.gitignore` para também ignorar o linting de estilização 🎉 Isto foi anunciado [neste comunicado](https://prettier.io/blog/2023/07/05/3.0.0.html#ignore-gitignored-files-by-default-14731httpsgithubcomprettierprettierpull14731-by-fiskerhttpsgithubcomfisker).
+
+Caso você queira simular o comportamento da aula, basta instalar o módulo na versão `2.8.8` da seguinte forma:
+
+```
+npm install prettier@2.8.8
+```

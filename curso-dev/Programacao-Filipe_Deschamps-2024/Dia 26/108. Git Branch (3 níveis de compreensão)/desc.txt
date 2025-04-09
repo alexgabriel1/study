@@ -1,0 +1,8 @@
+Nesta aula você irá aprender sobre um dos **recursos mais importantes** do `Git` na minha opinião que se chama `branches`! E entender de `branches` pode ser a coisa **mais simples** do mundo ou **mais complicada** do mundo dependendo do **modelo mental** que você usar pra entender o que está acontecendo. Por conta disso eu gostaria de fazer **3 explicações** para você, que são na verdade **3 níveis de compreensão** sobre a feature de `branches` 🤝
+
+
+### Link para o comentário
+
+Este é o link do comentário do `leandl` que virou uma thread sensacional com **espírito open source**:
+
+https://curso.dev/alunos/leandl/3988bdf7-3545-4163-a954-400595538126

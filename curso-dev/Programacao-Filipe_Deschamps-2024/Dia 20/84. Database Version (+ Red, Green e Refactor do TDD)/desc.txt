@@ -1,0 +1,5 @@
+Chegou a hora de usar `100%` de `TDD` para implementar o retorno do `dependencies.database.version`. Fora isso, vamos revisitar os `3` Estágios do `TDD` que são `Red`, `Green` e `Refactor` 💪
+
+## 🛑 Atenção
+
+Para você entender o `começo` dessa aula, você precisa ficar até o `último segundo` da aula `anterior`: [Endpoint "/status": ISO 8601 + Fuso + MVC + lowerCamelCase](https://curso.dev/web/endpoint-status-updated-at) 🤝

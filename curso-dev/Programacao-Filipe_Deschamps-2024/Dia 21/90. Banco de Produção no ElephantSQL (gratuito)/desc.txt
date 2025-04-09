@@ -1,0 +1,11 @@
+Temos uma missão muito importante que é, nessa aula, criar uma conta no [ElephantSQL](https://www.elephantsql.com/), criar um banco `Postgres` lá dentro, pegar as credenciais desse banco, configurar elas nas variáveis de ambiente lá da Vercel e com isso fazer o endpoint `/api/v1/status` em produção voltar a vida 💪
+
+### Link da issue que comentei
+
+- [Migrations não estão mais sendo rodadas](https://github.com/filipedeschamps/tabnews.com.br/issues/120)
+
+### Atenção 🛑
+
+De uma forma assustadora, alguns dias depois desta aula ter sido publicada, a `ElephantSQL` publicou [em seu blog](https://www.elephantsql.com/blog/end-of-life-announcement.html) que não irá mais aceitar novas contas a partir do dia `01/05/2024` e irá encerrar suas atividades dia `27/01/2025`.
+
+Independente disto, a parte educacional da aula mantém **100% de validade** 🎉

@@ -1,0 +1,5 @@
+Nesta aula iremos criar o módulo `database.js` que é uma **abstração** da nossa infraestrutura e que vai ser responsável por **abrir conexão** com o **Banco de Dados** e enviar **queries** pra ele. Para isto, vamos instalar o módulo `pg` na versão `8.11.3` 🤝
+
+## Comentário destaque ⭐️
+
+Depois de ver a aula, sugiro ler [este comentário](https://curso.dev/alunos/filipedeschamps/ca07843d-c389-4722-83f7-55d8de12481b) que fiz sobre a dúvida de outro aluno, pois pode ajudar a clarear alguns pontos importantes sobre a utilidade do `database.js` 💪

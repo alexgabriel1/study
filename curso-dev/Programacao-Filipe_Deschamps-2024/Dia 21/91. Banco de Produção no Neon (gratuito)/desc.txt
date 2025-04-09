@@ -1,0 +1,1 @@
+A gente não precisa inventar ou se preocupar com mais nada nesse momento a não ser fazer tudo o que a gente fez com o `ElephantSQL`, mas agora com o [Neon](https://neon.tech/), que como falei na aula anterior, é um serviço mais novo e com recursos mais sofisticados 💪

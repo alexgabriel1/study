@@ -1,0 +1,7 @@
+Deploy é uma parte **crucial** de um profissional que trabalha com programação e que quer ver suas implementações e ideias saindo do papel e **enconstando na realidade**. Então nesta aula vamos entender melhor a dinâmica do **Continuous Deployment** da Vercel, incluindo a funcionalidade das suas **URLs permanentes** e como tudo isso contribui para você ver os códigos que você programa disponíveis publicamente na internet
+
+## Preciso da sua ajuda com o Epilif 🤝
+
+Se você tiver um tempinho **extra**, por favor, eu peço que você entre na aula **não listada** abaixo, pois estou precisando de uma ajuda:
+
+* **[Resolvendo um problema com Epilif](https://curso.dev/web/epilif-ajustando-frase)**

@@ -1,0 +1,1 @@
+Nesta aula eu destaco uma frase do [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) que se conecta perfeitamente com o que acontece no mundo da tecnologia e programação... inclusive com o que acontece dentro desta própria aula ao configurar o **Node.js**, a fundação do projeto, utilizando o utilitário `nvm`.

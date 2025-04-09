@@ -1,0 +1,1 @@
+Esta é uma descrição difícil de se fazer, pois esta é mais uma daquelas aulas onde eu avanço o projeto e utilizo qualquer oportunidade que consigo para fazer o download de mais conhecimentos. Por isso que além de avançar com o endpoint `/status`, eu aproveito para falar sobre `ISO 8601`, `Fuso`, `MVC` e `lowerCamelCase` 💪

@@ -1,0 +1,9 @@
+Quando eu falo para não confiar nos serviços eu não estou falando no sentido **moral** em que eles "querem o seu mal" ou "querem fraudar você" de alguma forma. Até porque, todos os serviços que eu uso (seja em projetos pessoais ou projetos profissionais) eu confio bastante neste ponto... e é o **mínimo** na verdade.
+
+Agora, uma coisa que você não pode confiar e que não existe, é `100% de Uptime`, ou seja, um serviço consiga dentro de um ano ficar online 100% do tempo nos mais de **31 milhões de segundos** que um ano tem.
+
+### Status Pages
+
+* Vercel: https://www.vercel-status.com/
+* AWS: https://health.aws.amazon.com/health/status
+* GitHub: https://www.githubstatus.com/

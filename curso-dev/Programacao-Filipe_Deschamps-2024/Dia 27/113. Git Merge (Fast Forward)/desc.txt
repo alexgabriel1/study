@@ -1,0 +1,1 @@
+Agora sim, chegou o momento que a maioria das pessoas tem medo... o `Merge`! Isso assusta muita gente  porque, se você não conhece os fragmentos, os objetos por baixo dos panos do Git, como a gente tá conhecendo aqui pelo `curso.dev`, tudo é muito nebuloso, confuso, mas não é... no fundo no fundo é **simples**.

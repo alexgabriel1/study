@@ -1,0 +1,1 @@
+Topa jogar o Jogo dos 7 erros comigo? Tudo em nome de aprender `git`, mas mais especificamente o mecanismo de `diff`, pois isto vai ser um _"plot twist"_ numa confusão que muita gente faz sobre os bastidores de como o `git` funciona e gerencia o seu histórico de arquivos. Fora que, entendendo isso, vai abrir sua mente sobre o que é retornado pelo comando `git log` (e como).

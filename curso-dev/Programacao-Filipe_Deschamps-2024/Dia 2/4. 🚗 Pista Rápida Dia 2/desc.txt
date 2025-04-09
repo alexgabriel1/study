@@ -1,0 +1,7 @@
+Esta é a primeira **Pista Rápida (FastTrack)** do curso.dev e nela eu dou um rápido resumo dos principais pontos que foram discutidos ao longo das aulas encontradas no **Dia 2**. Fora isso, eu incentivo pessoas com mais senioridade na área de tecnologia a conferirem as aulas na **Pista Lenta**, pois nelas serão encontradas **analogias** que podem ser utilizadas para a pessoa explicar estes conceitos para outras pessoas.
+
+## Atenção
+
+Para compartilhar o seu perfil e consultar o perfil de outros alunos, peço que faça isso na aula **[Git? GitHub? É tudo a mesma coisa?](https://curso.dev/web/git-github)**
+
+Você vai encontrar lá muuuuitos perfis legais 💪

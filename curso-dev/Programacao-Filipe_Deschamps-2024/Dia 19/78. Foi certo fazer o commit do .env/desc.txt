@@ -1,0 +1,9 @@
+Como eu antecipei na última Pista Lenta do Dia 18, algumas lapidações **importantes** precisam ser feitas, incluindo em **conhecimento**, e eu acho melhor a gente não deixar isso para depois e fazer agora. Então eu gostaria de começar tocando no ponto de que se foi certo ou não fazer o `commit` do arquivo `.env` 🤝
+
+## Artigo sobre remover dados sensíveis
+
+Este é o artigo que eu comentei sobre remover dados sensíveis do histórico do seu repositório: [Remover dados confidenciais de um repositório](https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
+
+## Comentário em destaque
+
+Sugiro ler [esse comentário](https://curso.dev/alunos/maion/b0dbda29-d784-4dd2-8ae5-e59eac4cc992) do aluno `maion` explicando como ele usou o `BFG` para remover dados sensíveis de dois arquivos do seu repositório 💪

@@ -1,0 +1,1 @@
+Eu deixei você na **cara do gol** na aula anterior, com o container rodando e servindo o `Postgres`,  mas não sendo possível se conectar nele. E olha só que engraçado, a aula de hoje vai começar tentando se conectar nele mesmo assim para entender de verdade porque não é possível, e por fim, se conectar nele com sucesso 🎉

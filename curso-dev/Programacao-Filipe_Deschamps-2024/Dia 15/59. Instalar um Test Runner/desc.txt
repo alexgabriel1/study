@@ -1,0 +1,3 @@
+Se você ainda não passou pela **jornada dos Testes Automatizados**, com o que eu vou te mostrar daqui para frente, provavelmente você vai pensar *"nossa... testes automatizados é só isso!?!"* ... aí naturalmente você vai enfiando cada vez mais o pé na lama, talvez num ponto de começar a colocar o assunto Testes Automatizados num **pedestal**. Aí depois quando dá aquele *click* de novo sobre o que realmente está acontecendo... você vai voltar a pensar: *"nossa… testes automatizados… é só isso?!??!?"*
+
+É uma jornada **muito legal** e reveladora de vários aspectos sobre a "arte de programar", e tudo começa com a instalação de um **Test Runner** 💪

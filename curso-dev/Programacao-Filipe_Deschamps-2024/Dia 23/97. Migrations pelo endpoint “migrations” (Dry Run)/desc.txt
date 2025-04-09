@@ -1,0 +1,1 @@
+Dessa vez vamos atacar a tarefona _"Executar Migrations pelo endpoint `/migrations`"_ e continuando nesse ritmo, vai ser **inevitável** você se tornar um profissional nesse assunto 🤝

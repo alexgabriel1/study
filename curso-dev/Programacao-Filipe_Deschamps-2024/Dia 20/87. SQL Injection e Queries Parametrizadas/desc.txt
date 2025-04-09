@@ -1,0 +1,1 @@
+O `Dia 20` tá bem massa e vai ficar ainda mais, porque nesta Pista Lenta vamos aprender sobre `SQL Injection`, `Queries Parametrizadas`, identificar e consertar o problema de `Vazamento de Conexões`, marcar como concluída a tarefa `Finalizar retorno do endpoint /status` e concluir a issue `Banco de Dados (Local)` com **muito orgulho** 💪

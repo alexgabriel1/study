@@ -1,0 +1,8 @@
+Chegou a hora de implementarmos uma versão do código onde, ao realizar um `POST` contra o endpoint `/api/v1/migrations`, as Migrations do sistema são rodadas para valer no modo `Live Run`, e tudo isso coberto por Testes Automatizados, onde inclusive vamos ver como **filtrar os testes** de uma forma mais refinada para conseguir isolar apenas a bateria de testes que queremos rodar e isto é fundamental para quando a quantidade de testes for maior 💪
+
+Mas o mais **importante** desta aula é revelar uma **condição na arquitetura dos testes** que eu estipulei no **começo** do TabNews 🤝
+
+### Artigos citados na aula
+
+* [The argument against clearing the database between tests](https://calpaterson.com/against-database-teardown.html)
+* [Thread no Hacker News](https://news.ycombinator.com/item?id=29764792)

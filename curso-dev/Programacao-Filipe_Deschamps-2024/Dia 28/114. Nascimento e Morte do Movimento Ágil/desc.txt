@@ -1,0 +1,3 @@
+Esta é uma aula importante para entender _"de onde viemos e para onde estamos indo"_  na nossa área, começando pela metodologia `Waterfall` e como que isto impulsionou o `Movimento Ágil` iniciado em `2001`. E como nem tudo são flores, eu destaco também desafios que tive ao longo da minha gestão no `Pagar.me` e como que o _"abuso do Movimento Ágil"_ levou a uma `queda` na `produtividade` e `satisfação` das equipes.
+
+De qualquer forma, a parte `ágil` do movimento está longe de morrer e daqui para frente iremos ver o impacto que isso teve na forma que trabalhamos e iremos trabalhar por **muito tempo** 💪

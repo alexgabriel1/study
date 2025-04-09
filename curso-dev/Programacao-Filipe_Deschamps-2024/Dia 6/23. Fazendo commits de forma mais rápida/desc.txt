@@ -1,0 +1,3 @@
+Neste vídeo vamos fazer várias coisas, inclusive nos colocar numa posição **problemática** porém **vida real** 🤝
+
+De qualquer forma, o destaque da aula é um atalho para fazer novos `commit`, um atalho que possivelmente vai se tornar a forma padrão de você fazer eles 💪

@@ -1,0 +1,5 @@
+Do jeito que o código do `/migrations` está hoje, tanto se você rodar ele no modo `Dry Run`, quanto no `Live Run`, ambos vão executar as Migrations somente na mesma direção, a `up`, que é ler e executar elas na ordem `crescente`. Isto não vai mudar e nesta aula irei ter uma conversa **muito importante** com você dos motivos desta escolha 🤝
+
+### Artigos citados na aula
+* [Pitfalls with SQL rollbacks and automated database deployments](https://octopus.com/blog/database-rollbacks-pitfalls)
+* [Stack Overflow: How We Do Deployment - 2016 Edition](https://nickcraver.com/blog/2016/05/03/stack-overflow-how-we-do-deployment-2016-edition)

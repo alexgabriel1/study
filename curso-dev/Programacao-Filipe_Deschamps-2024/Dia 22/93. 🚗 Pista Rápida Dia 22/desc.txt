@@ -1,0 +1,1 @@
+Não existe profissional na nossa área, que se considera um profissional **completo** pelo menos, e que não sabe mexer com `migrations`. Então, se esta é uma lacuna no seu conhecimento, fica tranquilo, que o `Dia 22` veio para resolver isso de uma vez por todas 💪

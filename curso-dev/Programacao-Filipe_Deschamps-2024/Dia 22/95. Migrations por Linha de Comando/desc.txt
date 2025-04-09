@@ -1,0 +1,1 @@
+Nesta Pista Lenta iremos dar passos concretos para se trabalhar com `Migrations`, onde através da `CLI` (Command Line Interface) do `node-pg-migrate`, iremos tanto `criar` arquivos de migração quanto `executar` eles para valer 💪

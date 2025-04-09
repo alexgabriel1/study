@@ -1,0 +1,1 @@
+Não tem coisa que me assusta mais em desenvolvimento de software do que ficar muito tempo sem fazer **deploy em produção**. E como o endpoint `/api/v1/status` está retornando erro `500`, vamos aproveitar para **investigar** e **provar** o que está acontecendo 💪

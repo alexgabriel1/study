@@ -1,0 +1,3 @@
+Na aula anterior eu falei que a gente iria fazer o merge do que está dentro da branch `fix-migrations-endpoint` para dentro da branch `main` e saber fazer isso de verdade (sabendo o que está acontecendo por baixo dos panos) é algo muito poderoso 💪
+
+Só que com grandes poderes vêm grandes responsabilidades e, o fato de saber criar branches e fazer o merge delas, expõe você a **perder parte do seu trabalho**. Então esta é uma aula extremamente especial que ensina como utilizar o `git reflog` para nunca mais perder o que você programou!

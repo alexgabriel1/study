@@ -1,0 +1,3 @@
+Esta é uma aula mais específica ao `Codespaces` ou até `VS Code` e que serve como referência para outros editores sobre uma feature para sincronização na nuvem de configurações.
+
+Mas independente disto, a parte mais importante é que nesta aula iremos aprender a dividir uma `Issue` em `Tarefas` e concluir a primeira `Tarefa` da Milestone 🎉

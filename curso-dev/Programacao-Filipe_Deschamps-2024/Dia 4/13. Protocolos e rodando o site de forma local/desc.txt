@@ -1,0 +1,3 @@
+É uma **honra** ter uma aula como esta aqui na plataforma, pois ela irá fazer você **notar** a internet de uma forma **diferente**, pois você vai começar a **ver** e **entender** Protocolos, que são a base de toda a comunicação que acontece entre um **Cliente** e **Servidor**, desde o seu navegador ao saber se comunicar por `HTTP`, até a sua rede que sabe se comunicar por `TCP` através do `IP`. Além disso, a missão desta aula é levantar o **Servidor Web**... será que vamos conseguir?
+
+Vídeo do UDP vs TCP: https://youtu.be/ZEEBsq3eQmg

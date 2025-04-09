@@ -1,0 +1,3 @@
+Pelo fato de na aula anterior a gente ter conseguido estabilizar os testes - deixar eles reproduzíveis independente de modificarem o state do banco ou não - significa que agora é possível **expandir** eles, deixar eles mais **sofisticados**.
+
+Dado a isso eu vou expandir o teste do POST para provar que o endpoint `/migrations` está fazendo o que ele deveria estar fazendo e também gostaria de aproveitar para fazer algumas **refatorações**, incluindo introduzir **comportamentos novos** na implementação concreta do endpoint 🤝

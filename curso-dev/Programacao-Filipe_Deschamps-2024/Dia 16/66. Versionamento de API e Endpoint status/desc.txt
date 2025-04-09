@@ -1,0 +1,1 @@
+A aula de hoje tem muito mais conteúdos sobre `API` e `HTTP`, mas ela um objetivo muito claro e que já está super encaminhado, que é completar a tarefa `Criar endpoint /status`, e em cima disto iremos aprender sobre `Versionamento de API` e `Breaking Changes` 🤝

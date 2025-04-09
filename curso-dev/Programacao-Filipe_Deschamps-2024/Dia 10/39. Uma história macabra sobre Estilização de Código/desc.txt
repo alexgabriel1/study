@@ -1,0 +1,7 @@
+No compromisso de fazer o **download do meu cérebro**, eu não posso apenas ensinar a parte técnica de algo que eu acredito ser importante. Eu preciso compartilhar com você eventos da **"vida real"** que aconteceram e que, aí sim, concretizam a importância da parte técnica. Isso é o que irá fazer **grudar** na sua mente o conhecimento 💪
+
+Então nesta aula vou contar uma história que eu vivenciei no início do Pagar.me, onde eu espero convencer você que, **estilização de código**, no longo prazo, é algo **muito importante** 🤝
+
+### Curiosidade
+
+[Neste comentário](https://curso.dev/alunos/czaghi/e5632290-0281-41ae-b7f0-a762bdc9ff09) o aluno `czaghi` diz que encontrou o `PR` que eu citei na aula 😂

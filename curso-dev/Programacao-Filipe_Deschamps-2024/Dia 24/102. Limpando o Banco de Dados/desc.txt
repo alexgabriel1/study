@@ -1,0 +1,1 @@
+Vamos matar nessa aula o `Desafio de Nível 1` e `Desafio de Nível 2` para você tanto comparar como eu vou fazer por aqui, quanto pra treinar fazer esse tipo de **investigação** e como abordar um problema como esse, porque essas habilidades vão valer por muito tempo 💪 E como resultado final, iremos limpar o `state` do Banco de Dados a cada bateria de teste 🤝

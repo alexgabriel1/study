@@ -1,0 +1,39 @@
+É a partir dessa Pista Lenta que você vai entender o **afastamento** que dá para ter da **Muralha de Negócio** que é, no final das contas, ter o endpoint `/migrations` usável por quem quer consultar ou rodar as Migrations do sistema por essa interface programática. Eu digo isso, porque a gente vai passar por algumas coisas da **Muralha Técnica** que não são tão semânticas, nem divertidas, pelo menos quando comparado a onde a gente quer chegar. Uma destas coisas é fazer o `Jest` conseguir ler e utilizar módulos `ESM`, que é o que iremos resolver dentro desta aula 🤝
+
+### Desafios para próxima aula
+
+Ao final eu proponho dois desafios:
+
+* **Desafio Nível 1:** provar através do código que o processo do `Jest` de fato está rodando no ambiente `test` e também provar que as credenciais do Banco de Dados não estão sendo injetadas no `process.env`.
+* **Desafio Nível 2:** fazer o `.env.development` ser carregado dentro do processo do `Jest`.
+
+
+### Como publicar as respostas sem dar spoiler?
+
+Dentro do corpo da sua resposta, você pode pode utilizar a tag especial `<details>`, por exemplo:
+
+    <details>
+      <summary>Spoiler</summary>
+
+      Esta parte estará escondida por padrão até que você clique em `Spoiler`.
+
+      E aqui dentro você poderá colocar o que quiser, até outro código, por exemplo:
+
+      ```js
+      console.log('funcionou!');
+      ```
+    </details>
+
+O resultado do código acima é isto aqui:
+
+<details>
+  <summary>Spoiler</summary>
+
+  Esta parte estará escondida por padrão até que você clique em `Spoiler`.
+
+  E aqui dentro você poderá colocar o que quiser, até outro código, por exemplo:
+
+  ```js
+  console.log('funcionou!');
+  ```
+</details>
